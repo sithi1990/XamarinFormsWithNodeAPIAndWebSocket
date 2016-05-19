@@ -1,0 +1,11 @@
+C:\Users\sithi\Documents\Visual Studio 2013\Projects\VAppApiServiceAccess\VAppApiServiceAccess\bin\Debug\VAppApiServiceAccess.dll
+C:\Users\sithi\Documents\Visual Studio 2013\Projects\VAppApiServiceAccess\VAppApiServiceAccess\bin\Debug\VAppApiServiceAccess.pdb
+C:\Users\sithi\Documents\Visual Studio 2013\Projects\VAppApiServiceAccess\VAppApiServiceAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sithi\Documents\Visual Studio 2013\Projects\VAppApiServiceAccess\VAppApiServiceAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sithi\Documents\Visual Studio 2013\Projects\VAppApiServiceAccess\VAppApiServiceAccess\obj\Debug\VAppApiServiceAccess.dll
+C:\Users\sithi\Documents\Visual Studio 2013\Projects\VAppApiServiceAccess\VAppApiServiceAccess\obj\Debug\VAppApiServiceAccess.pdb
+C:\Users\sithi\Documents\Visual Studio 2013\Projects\VAppApiServiceAccess\VAppApiServiceAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sithi\Documents\Visual Studio 2013\Projects\VAppApiServiceAccess\VAppApiServiceAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\sithi\Documents\Visual Studio 2013\Projects\VAppApiServiceAccess\VAppApiServiceAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\sithi\Documents\Visual Studio 2013\Projects\VAppApiServiceAccess\VAppApiServiceAccess\bin\Debug\JWT.dll
+C:\Users\sithi\Documents\Visual Studio 2013\Projects\VAppApiServiceAccess\VAppApiServiceAccess\obj\Debug\VAppApiServiceAccess.csprojResolveAssemblyReference.cache

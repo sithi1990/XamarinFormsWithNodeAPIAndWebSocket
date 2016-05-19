@@ -1,0 +1,7 @@
+c:\users\sithi\documents\visual studio 2013\Projects\VAppApiServiceAccess\VAppApiServiceAccess\bin\Debug\VAppApiServiceAccess.dll
+c:\users\sithi\documents\visual studio 2013\Projects\VAppApiServiceAccess\VAppApiServiceAccess\bin\Debug\VAppApiServiceAccess.pdb
+c:\users\sithi\documents\visual studio 2013\Projects\VAppApiServiceAccess\VAppApiServiceAccess\bin\Debug\Newtonsoft.Json.dll
+c:\users\sithi\documents\visual studio 2013\Projects\VAppApiServiceAccess\VAppApiServiceAccess\bin\Debug\Newtonsoft.Json.xml
+c:\users\sithi\documents\visual studio 2013\Projects\VAppApiServiceAccess\VAppApiServiceAccess\obj\Debug\VAppApiServiceAccess.Authentication.csprojResolveAssemblyReference.cache
+c:\users\sithi\documents\visual studio 2013\Projects\VAppApiServiceAccess\VAppApiServiceAccess\obj\Debug\VAppApiServiceAccess.dll
+c:\users\sithi\documents\visual studio 2013\Projects\VAppApiServiceAccess\VAppApiServiceAccess\obj\Debug\VAppApiServiceAccess.pdb

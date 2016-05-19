@@ -1,0 +1,3 @@
+C:\Users\sithi\Documents\Visual Studio 2013\Projects\VAppApiServiceAccess\TestWebSocketWindowsApp\bin\Debug\TestWebSocketWindowsApp.exe.config
+C:\Users\sithi\Documents\Visual Studio 2013\Projects\VAppApiServiceAccess\TestWebSocketWindowsApp\obj\Debug\TestWebSocketWindowsApp.exe
+C:\Users\sithi\Documents\Visual Studio 2013\Projects\VAppApiServiceAccess\TestWebSocketWindowsApp\obj\Debug\TestWebSocketWindowsApp.pdb
